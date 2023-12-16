@@ -1,0 +1,3 @@
+writing on a file
+using command line in vs code 
+
